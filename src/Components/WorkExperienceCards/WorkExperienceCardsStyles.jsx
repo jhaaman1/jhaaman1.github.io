@@ -1,5 +1,5 @@
 import { makeStyles } from "@mui/styles";
-import Travel from "../../Assets/travel.png"
+// import Travel from "../../Assets/travel.png"
 // Styles for work experience cards section
 export default makeStyles(({ palette }) => {
     return {

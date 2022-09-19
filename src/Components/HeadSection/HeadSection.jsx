@@ -1,10 +1,10 @@
 import { Container, Grid, Typography, useMediaQuery, useTheme, Button } from "@mui/material";
 import styles from "./HeadStyles.jsx";
-import AmanJaiswal from "../../Assets/amanjha.png";
+import AmanJha from "../../Assets/photo1.png";
 import Shape from '../../Assets/shape.png';
 import Typewriter from 'typewriter-effect';
 import { useEffect } from "react";
-import Resume from "../../Assets/aman_jaiswal_resume.pdf";
+// import Resume from "../../Assets/aman_jaiswal_resume.pdf";
 import './HeadSection.css'
 import SmoothScroll from "../../Utils/smoothScroll.js";
 function HeadSection() {
@@ -56,7 +56,7 @@ function HeadSection() {
                             />
                         </Typography>
                         <Button variant="contained" onClick={()=>SmoothScroll("#contact")} className={classes.themeBtn}>Get In Touch</Button>
-                        <Button variant="outlined" href={"https://drive.google.com/file/d/1UCYxCb_wCqyEoNb4Xzq5dfnR96abSQZq/view?usp=sharing"} target="_blank" className={classes.altBtn}>View Resume</Button>
+                        <Button variant="outlined" href={"https://drive.google.com/file/d/1SbsRxYW1_q2mIgTL2XM0SNYipx4TzGcJ/view?usp=sharing"} target="_blank" className={classes.altBtn}>View Resume</Button>
                     </Grid>
                     {!small && (
                         <Grid
@@ -67,7 +67,7 @@ function HeadSection() {
                         >
                              <div className="images"> 
             <img src={Shape} className="shape"/>
-            <img src={AmanJaiswal} className="girl"/>
+            <img src={AmanJha} className="girl"/>
             </div>
                             
                         </Grid>

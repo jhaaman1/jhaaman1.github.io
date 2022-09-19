@@ -11,7 +11,7 @@ import React, { useState } from "react";
 import styles from "./HeaderStyles";
 import { Link } from 'react-router-dom'
 import SidebarDrawer from "../Sidebar/SidebarDrawer";
-import Logo from '../../Assets/amanjha.png'
+import Logo from '../../Assets/logo_aj.png'
 import MenuRounded from "@mui/icons-material/MenuRounded";
 import { useLocation, useNavigate } from "react-router-dom";
 import SmoothScroll from "../../Utils/smoothScroll";

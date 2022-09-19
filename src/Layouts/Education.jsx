@@ -10,7 +10,7 @@ import TimelineContent from '@mui/lab/TimelineContent';
 import TimelineOppositeContent from '@mui/lab/TimelineOppositeContent';
 import TimelineDot from '@mui/lab/TimelineDot';
 import Content from '../Lib/Content';
-import AmanJaiswal from '../Assets/amanjha.png';
+import AmanJha from '../Assets/photo1.png';
 
 // Styles for Education page
 const styles = makeStyles(({ breakpoints, palette }) => {
@@ -95,7 +95,7 @@ function Education() {
             sm={2}
             className={classes.hideSmall}
           >
-            <img src={AmanJaiswal} alt="Aman jha" className={classes.photo} draggable="false" />
+            <img src={AmanJha} alt="Aman jha" className={classes.photo} draggable="false" />
           </Grid>
           <Grid
             item

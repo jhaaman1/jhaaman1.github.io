@@ -4,6 +4,7 @@ import portfolio from "./propic/portfolio.png"
 import kindmeal from "./propic/kindmeal.png"
 import tomtop from "./propic/Tomtop.png"
 import snapdeal from "./propic/snapdeal.png"
+import cricbuzz from "./propic/cricbuzz.png"
 
 export default {
     managerialSkills: ["Leadership", "Strategising", "Team Motivation",  "Research", "Finance Management"],
@@ -48,6 +49,16 @@ export default {
             feedback: "",
             url:"https://clone-ed0c7.web.app/",
             propic:amazon
+        },
+        {
+            company: "Cricbuzz Clone",
+            link: "https://github.com/jhaaman1/usable-distribution-7962",
+            role: "ReactJS, Vercel, MaterialUI",
+            description: ["Created a very popular website know as Cricbuzz.The Look and all the functionality of our website is somewhat similar to the original website.From this website, users can watch the live score and cricket news across the world. This is a solo project completed within 5 days.  "],
+            duration: "August 2022- August 2022",
+            feedback: "",
+            url:"https://cricbuzz-clone.vercel.app//",
+            propic:cricbuzz
         },
         {
             company: "React Portfolio",
