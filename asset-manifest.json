@@ -1,30 +1,30 @@
 {
   "files": {
     "main.css": "/static/css/main.299abd49.chunk.css",
-    "main.js": "/static/js/main.3c1a124a.chunk.js",
-    "main.js.map": "/static/js/main.3c1a124a.chunk.js.map",
+    "main.js": "/static/js/main.1819289b.chunk.js",
+    "main.js.map": "/static/js/main.1819289b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.9440ddd9.js",
     "runtime-main.js.map": "/static/js/runtime-main.9440ddd9.js.map",
-    "static/js/2.057f4a2e.chunk.js": "/static/js/2.057f4a2e.chunk.js",
-    "static/js/2.057f4a2e.chunk.js.map": "/static/js/2.057f4a2e.chunk.js.map",
+    "static/js/2.8e7a3242.chunk.js": "/static/js/2.8e7a3242.chunk.js",
+    "static/js/2.8e7a3242.chunk.js.map": "/static/js/2.8e7a3242.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.299abd49.chunk.css.map": "/static/css/main.299abd49.chunk.css.map",
-    "static/js/2.057f4a2e.chunk.js.LICENSE.txt": "/static/js/2.057f4a2e.chunk.js.LICENSE.txt",
+    "static/js/2.8e7a3242.chunk.js.LICENSE.txt": "/static/js/2.8e7a3242.chunk.js.LICENSE.txt",
     "static/media/App.css": "/static/media/AvenirNext-900.d95c5b81.ttf",
     "static/media/Tomtop.32d34d42.png": "/static/media/Tomtop.32d34d42.png",
-    "static/media/aman_jaiswal_resume.2db6fad7.pdf": "/static/media/aman_jaiswal_resume.2db6fad7.pdf",
-    "static/media/amanjha.fa8e149e.png": "/static/media/amanjha.fa8e149e.png",
     "static/media/amazon.e8a02870.png": "/static/media/amazon.e8a02870.png",
+    "static/media/cricbuzz.3355beb6.png": "/static/media/cricbuzz.3355beb6.png",
     "static/media/kindmeal.823f1300.png": "/static/media/kindmeal.823f1300.png",
+    "static/media/logo_aj.958ef23d.png": "/static/media/logo_aj.958ef23d.png",
+    "static/media/photo1.7b74fd5a.png": "/static/media/photo1.7b74fd5a.png",
     "static/media/portfolio.75e17a9c.png": "/static/media/portfolio.75e17a9c.png",
     "static/media/shape.961297ba.png": "/static/media/shape.961297ba.png",
-    "static/media/snapdeal.5ebf5cdd.png": "/static/media/snapdeal.5ebf5cdd.png",
-    "static/media/travel.74d6df82.png": "/static/media/travel.74d6df82.png"
+    "static/media/snapdeal.5ebf5cdd.png": "/static/media/snapdeal.5ebf5cdd.png"
   },
   "entrypoints": [
     "static/js/runtime-main.9440ddd9.js",
-    "static/js/2.057f4a2e.chunk.js",
+    "static/js/2.8e7a3242.chunk.js",
     "static/css/main.299abd49.chunk.css",
-    "static/js/main.3c1a124a.chunk.js"
+    "static/js/main.1819289b.chunk.js"
   ]
 }
