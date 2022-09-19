@@ -1,6 +1,6 @@
 import { Container, Grid, Typography, useMediaQuery, useTheme, Button } from "@mui/material";
 import styles from "./HeadStyles.jsx";
-import AmanJha from "../../Assets/photo1.png";
+import AmanJha from "../../Assets/photo.png";
 import Shape from '../../Assets/shape.png';
 import Typewriter from 'typewriter-effect';
 import { useEffect } from "react";
@@ -56,7 +56,7 @@ function HeadSection() {
                             />
                         </Typography>
                         <Button variant="contained" onClick={()=>SmoothScroll("#contact")} className={classes.themeBtn}>Get In Touch</Button>
-                        <Button variant="outlined" href={"https://drive.google.com/file/d/1SbsRxYW1_q2mIgTL2XM0SNYipx4TzGcJ/view?usp=sharing"} target="_blank" className={classes.altBtn}>View Resume</Button>
+                        <Button variant="outlined" href={"https://drive.google.com/file/d/1IlaWlMM6NXk-T3KoAts9HNLE0EVyhmyn/view?usp=sharing"} target="_blank" className={classes.altBtn}>View Resume</Button>
                     </Grid>
                     {!small && (
                         <Grid

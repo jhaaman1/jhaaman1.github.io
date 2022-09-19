@@ -22,3 +22,7 @@
 .images:hover .girl {
   left: 45%;
 }
+
+.girl{
+  border-radius: 90%;
+}

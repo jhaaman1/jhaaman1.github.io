@@ -46,7 +46,7 @@ const ContactLinks = () => {
             <Typography variant="h5" className={classes.title} mt={2} mb={2}>
                 Resume
             </Typography>
-            <Button variant="contained" href={"https://drive.google.com/file/d/1SbsRxYW1_q2mIgTL2XM0SNYipx4TzGcJ/view?usp=sharing"} target="_blank" className={classes.themeBtn} download>View Resume</Button>
+            <Button variant="contained" href={"https://drive.google.com/file/d/1IlaWlMM6NXk-T3KoAts9HNLE0EVyhmyn/view?usp=sharing"} target="_blank" className={classes.themeBtn} download>View Resume</Button>
         </>
     );
 };
