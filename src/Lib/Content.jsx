@@ -60,16 +60,16 @@ export default {
             url:"https://cricbuzz-clone.vercel.app//",
             propic:cricbuzz
         },
-        {
-            company: "React Portfolio",
-            link: "https://github.com/jhaaman1/my-portfolio",
-            role: "ReactJS , MaterialUI",
-            description:["A full detailed portfolio of my self where you can see all the details of my skills,projects,contact at one place."],
-            duration: "August 2022- August 2022",
-            feedback:"",
-            url : "",
-            propic:portfolio
-        },
+        // {
+        //     company: "React Portfolio",
+        //     link: "https://github.com/jhaaman1/my-portfolio",
+        //     role: "ReactJS , MaterialUI",
+        //     description:["A full detailed portfolio of my self where you can see all the details of my skills,projects,contact at one place."],
+        //     duration: "August 2022- August 2022",
+        //     feedback:"",
+        //     url : "",
+        //     propic:portfolio
+        // },
         {
             company: "Kindmeal Clone",
             link: "https://github.com/Devashishsaurabh/KindMeal.my-Clone",
@@ -90,16 +90,16 @@ export default {
             url:"https://scintillating-starship-f9b8be.netlify.app/",
             propic:tomtop
         },
-        {
-            company: "Snapdeal Clone",
-            link: "https://github.com/Bhavesh2302/Snapdeal",
-            role: "HTML,CSS,JS",
-            description: ["Clone of India's leading shopping Website where you can do shopping of various fashion products. A team project completed within 5 days with simple,well defined navigation."],
-            duration: "April 2022 - April 2022",
-            feedback: "",
-            url:"https://effortless-boba-8bd7ff.netlify.app",
-            propic:snapdeal
-        },
+        // {
+        //     company: "Snapdeal Clone",
+        //     link: "https://github.com/Bhavesh2302/Snapdeal",
+        //     role: "HTML,CSS,JS",
+        //     description: ["Clone of India's leading shopping Website where you can do shopping of various fashion products. A team project completed within 5 days with simple,well defined navigation."],
+        //     duration: "April 2022 - April 2022",
+        //     feedback: "",
+        //     url:"https://effortless-boba-8bd7ff.netlify.app",
+        //     propic:snapdeal
+        // },
     
     ],
     accomplishments: [{
