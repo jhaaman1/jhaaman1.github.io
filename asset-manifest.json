@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.75c38b5f.chunk.css",
-    "main.js": "/static/js/main.04cbffa4.chunk.js",
-    "main.js.map": "/static/js/main.04cbffa4.chunk.js.map",
+    "main.js": "/static/js/main.209640d2.chunk.js",
+    "main.js.map": "/static/js/main.209640d2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.9440ddd9.js",
     "runtime-main.js.map": "/static/js/runtime-main.9440ddd9.js.map",
     "static/js/2.8e7a3242.chunk.js": "/static/js/2.8e7a3242.chunk.js",
@@ -13,19 +13,17 @@
     "static/media/App.css": "/static/media/AvenirNext-900.d95c5b81.ttf",
     "static/media/Tomtop.32d34d42.png": "/static/media/Tomtop.32d34d42.png",
     "static/media/amazon.e8a02870.png": "/static/media/amazon.e8a02870.png",
-    "static/media/cricbuzz.3355beb6.png": "/static/media/cricbuzz.3355beb6.png",
+    "static/media/blumerry.05942bb7.png": "/static/media/blumerry.05942bb7.png",
     "static/media/kindmeal.823f1300.png": "/static/media/kindmeal.823f1300.png",
     "static/media/logo_aj.958ef23d.png": "/static/media/logo_aj.958ef23d.png",
     "static/media/photo.11889741.png": "/static/media/photo.11889741.png",
     "static/media/photo1.7b74fd5a.png": "/static/media/photo1.7b74fd5a.png",
-    "static/media/portfolio.75e17a9c.png": "/static/media/portfolio.75e17a9c.png",
-    "static/media/shape.961297ba.png": "/static/media/shape.961297ba.png",
-    "static/media/snapdeal.5ebf5cdd.png": "/static/media/snapdeal.5ebf5cdd.png"
+    "static/media/shape.961297ba.png": "/static/media/shape.961297ba.png"
   },
   "entrypoints": [
     "static/js/runtime-main.9440ddd9.js",
     "static/js/2.8e7a3242.chunk.js",
     "static/css/main.75c38b5f.chunk.css",
-    "static/js/main.04cbffa4.chunk.js"
+    "static/js/main.209640d2.chunk.js"
   ]
 }
