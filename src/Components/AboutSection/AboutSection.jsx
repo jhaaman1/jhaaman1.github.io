@@ -28,19 +28,19 @@ function AboutSection() {
                             About <span className={classes.textColored}>Me</span>
                         </Typography>
                         <Typography variant="h6" className={classes.subtitle}>
-                            Originally from Darbhanga in India, Recently I am pursuing my full-stack web development course at <a href="https://www.masaischool.com/" target="_blank" rel="noreferrer" className={classes.hiddenLinks}>Masai School</a>. During this course, I worked on many projects.I also got the opportunity to lead my group several time.I think I am a nice team player.I enjoy working in team and executing the task well.I am passionate about solving real-world problems in the field of web development. 
+                            Originally from Darbhanga in India, Recently I am pursuing my full-stack web development course at <a href="https://www.masaischool.com/" target="_blank" rel="noreferrer" className={classes.hiddenLinks}>Masai School</a>. During this course, I worked on many projects.I think I am a nice team player.I enjoy working in team and executing the task well.I am passionate about solving real-world problems in the field of web development. 
              
                         </Typography>
                         <Typography variant="h6" className={classes.subtitle}>
-                            After completing my graduation and searching for my Right carrer path i decided to make my carrer as a web developer. In the initial days it was not easy to learn these things but as i spend more and more time in this i started enjoying these things.Now i can proudly say one thing that i am a passionate developer who is always ready to work on any of the project.I am a enthusiastic, hard working and a self-motivated
+                            I am a enthusiastic, hard working and a self-motivated
                             person who is always looking forward to learn new
                             skills. A complete Team Player who is excited to be at
                             the deployment phase of his new career as a full-stack
                             Web developer.      
                         </Typography>
-                        <Typography variant="h6" className={classes.subtitle}>
+                        {/* <Typography variant="h6" className={classes.subtitle}>
                             In my free time, I love to listen songs, kirtan, go for long drives.
-                        </Typography>
+                        </Typography> */}
                     </Grid>
                 </Grid>
                 {!small && (<span className="scroll-btn">

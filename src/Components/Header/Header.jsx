@@ -6,6 +6,7 @@ import {
     IconButton,
     SwipeableDrawer,
     Typography,
+    Button,
 } from "@mui/material";
 import React, { useState } from "react";
 import styles from "./HeaderStyles";
@@ -122,6 +123,9 @@ function Header(props) {
                                         pathCheck={navcolor==5}
                                     >
                                         Contact
+                                    </NavBarElement>
+                                    <NavBarElement>
+                                    <Button variant="outlined" href={"https://drive.google.com/file/d/1P1a9S-ZMI_tBpQZI2sSh0P0v20kHsCch/view?usp=share_link"} target="_blank" className={classes.altBtn}>Resume</Button>
                                     </NavBarElement>
                                 </>
                             ) :

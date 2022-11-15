@@ -1,12 +1,13 @@
 import { Container, Grid, Typography, useMediaQuery, useTheme, Button } from "@mui/material";
 import styles from "./HeadStyles.jsx";
-import AmanJha from "../../Assets/photo.png";
+import AmanJha from "../../Assets/passport_photo.png";
 import Shape from '../../Assets/shape.png';
 import Typewriter from 'typewriter-effect';
 import { useEffect } from "react";
-// import Resume from "../../Assets/aman_jaiswal_resume.pdf";
 import './HeadSection.css'
 import SmoothScroll from "../../Utils/smoothScroll.js";
+// import Resume from ""
+
 function HeadSection() {
     const classes = styles();
     const theme = useTheme();
@@ -56,7 +57,8 @@ function HeadSection() {
                             />
                         </Typography>
                         <Button variant="contained" onClick={()=>SmoothScroll("#contact")} className={classes.themeBtn}>Get In Touch</Button>
-                        <Button variant="outlined" href={"https://drive.google.com/file/d/1IlaWlMM6NXk-T3KoAts9HNLE0EVyhmyn/view?usp=sharing"} target="_blank" className={classes.altBtn}>View Resume</Button>
+                        {/* <Button variant="outlined" href={"https://drive.google.com/file/d/1P1a9S-ZMI_tBpQZI2sSh0P0v20kHsCch/view?usp=share_link"} target="_blank" className={classes.altBtn}>View Resume</Button> */}
+                        <Button className={classes.themeBtn}><a href="Aman_Jha_Resume.pdf" download={true}>Resume </a></Button>
                     </Grid>
                     {!small && (
                         <Grid

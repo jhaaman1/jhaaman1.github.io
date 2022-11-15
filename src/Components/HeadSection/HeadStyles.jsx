@@ -43,10 +43,10 @@ export default makeStyles(({ breakpoints, palette }) => {
             width: "500px",
             borderRadius: "10px",
             boxShadow: "0px 3px 6px rgba(0, 0, 0, 0.16)",
-            [breakpoints.down("sm")]: {
-                width: "280px",
-                marginTop: "50px",
-            },
+            // [breakpoints.down("sm")]: {
+            //     width: "280px",
+            //     marginTop: "50px",
+            // },
         },
         themeBtn: {
             backgroundColor: `${palette.primary.main} !important`,

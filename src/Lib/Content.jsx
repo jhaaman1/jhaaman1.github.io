@@ -1,10 +1,11 @@
 /* eslint import/no-anonymous-default-export: [2, {"allowObject": true}] */
 import amazon from "./propic/amazon.png"
-import portfolio from "./propic/portfolio.png"
+// import portfolio from "./propic/portfolio.png"
 import kindmeal from "./propic/kindmeal.png"
 import tomtop from "./propic/Tomtop.png"
-import snapdeal from "./propic/snapdeal.png"
-import cricbuzz from "./propic/cricbuzz.png"
+// import snapdeal from "./propic/snapdeal.png"
+// import cricbuzz from "./propic/cricbuzz.png"
+import bluemerry from "./propic/blumerry.png"
 
 export default {
     managerialSkills: ["Leadership", "Strategising", "Team Motivation",  "Research", "Finance Management"],
@@ -41,6 +42,16 @@ export default {
     work: [
         
         {
+            company: "Bluemerry.Com Clone",
+            link: "https://github.com/Sandipmaury/affable-scissors-7552",
+            role: "ReactJS,Redux, Redux Thunk, Vercel, Chakra UI",
+            description: ["Created a very popular website know as Bluemerry.The Look and all the functionality of our website is somewhat similar to the original website.From this website, users can Sign UP, Login, see the number of products and add it to cart and also there is payment where they can payment. This is a team project completed within 5 days.  "],
+            duration: "October 2022- October 2022",
+            feedback: "",
+            url:"https://affable-scissors-7552-psi.vercel.app/",
+            propic:bluemerry
+        },
+        {
             company: "Amazon Clone",
             link: "https://github.com/jhaaman1/clone-amazon-web",
             role: "ReactJS, Redux ,MaterialUI, Firebase",
@@ -50,16 +61,16 @@ export default {
             url:"https://clone-ed0c7.web.app/",
             propic:amazon
         },
-        {
-            company: "Cricbuzz Clone",
-            link: "https://github.com/jhaaman1/usable-distribution-7962",
-            role: "ReactJS, Vercel, MaterialUI",
-            description: ["Created a very popular website know as Cricbuzz.The Look and all the functionality of our website is somewhat similar to the original website.From this website, users can watch the live score and cricket news across the world. This is a solo project completed within 5 days.  "],
-            duration: "August 2022- August 2022",
-            feedback: "",
-            url:"https://cricbuzz-clone.vercel.app//",
-            propic:cricbuzz
-        },
+        // {
+        //     company: "Cricbuzz Clone",
+        //     link: "https://github.com/jhaaman1/usable-distribution-7962",
+        //     role: "ReactJS, Vercel, MaterialUI",
+        //     description: ["Created a very popular website know as Cricbuzz.The Look and all the functionality of our website is somewhat similar to the original website.From this website, users can watch the live score and cricket news across the world. This is a solo project completed within 5 days.  "],
+        //     duration: "August 2022- August 2022",
+        //     feedback: "",
+        //     url:"https://cricbuzz-clone.vercel.app//",
+        //     propic:cricbuzz
+        // },
         // {
         //     company: "React Portfolio",
         //     link: "https://github.com/jhaaman1/my-portfolio",
@@ -102,6 +113,9 @@ export default {
         // },
     
     ],
+
+    
+
     accomplishments: [{
         award: "Deveotee Service Samman",
         description: "Voluntarily participated and serves more than 100000 devotees in Isckon Ratha Yatra 2019 and 2022,Kolkata",
