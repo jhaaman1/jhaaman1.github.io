@@ -83,7 +83,7 @@ export function SidebarDrawer(props) {
     const navigate = useNavigate();
     return (
         <div className={classes.root}>
-            <Typography variant="h5" className={classes.mainLogo}>Aman&nbsp;<span className={classes.textColored}>Jaiswal</span></Typography>
+            <Typography variant="h5" className={classes.mainLogo}>Aman&nbsp;<span className={classes.textColored}>Jha</span></Typography>
             <SidebarElement
                 onClick={() =>{ navigate("/")
                 SmoothScroll("#homep")
