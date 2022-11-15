@@ -44,6 +44,7 @@ export default makeStyles(({ breakpoints, palette }) => {
             color: "black",
             fontWeight: "bolder !important",
             height:"4rem",
+            
         },
         navLinks: {
             marginLeft: "15px !important",

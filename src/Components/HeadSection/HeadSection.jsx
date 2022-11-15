@@ -6,7 +6,7 @@ import Typewriter from 'typewriter-effect';
 import { useEffect } from "react";
 import './HeadSection.css'
 import SmoothScroll from "../../Utils/smoothScroll.js";
-// import Resume from ""
+
 
 function HeadSection() {
     const classes = styles();
@@ -63,13 +63,13 @@ function HeadSection() {
                         <Grid
                             item
                             xs={12}
-                            md={6}
+                            md={4}
                             style={{ textAlign: "center" }}
                         >
                              <div className="images"> 
-            <img src={Shape} className="shape"/>
-            <img src={AmanJha} className="girl"/>
-            </div>
+                                <img src={Shape} className="shape"/>
+                                <img src={AmanJha} className="boy"/>
+                            </div>
                             
                         </Grid>
                     )}

@@ -5,14 +5,11 @@ import "./Github.css";
 
 const GitHub = () => {
   return (
-    <div className="github" >
-      <div >
-            <div className="mt-20">
+    <div className="github" >         
         <GitHubCalendar
           username="jhaaman1"
         />
-        </div>
-        </div>
+        
     </div>
   );
 };
