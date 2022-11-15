@@ -8,10 +8,6 @@ import SmoothScroll from "../../Utils/smoothScroll.js";
 function SkillsSection() {
     const classes = styles();
     var stringToHTML = function (str) {
-        // var parser = new DOMParser();
-        // var doc = parser.parseFromString(str, 'text/html');
-        // // console.log(doc.body.outt)
-        // return doc.body.innerHTML;
         let root=parse(str);
        console.log(root.toString());
     };

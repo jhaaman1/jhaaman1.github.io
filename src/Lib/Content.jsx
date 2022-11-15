@@ -1,4 +1,3 @@
-/* eslint import/no-anonymous-default-export: [2, {"allowObject": true}] */
 import amazon from "./propic/amazon.png"
 // import portfolio from "./propic/portfolio.png"
 import kindmeal from "./propic/kindmeal.png"
@@ -49,7 +48,8 @@ export default {
             duration: "October 2022- October 2022",
             feedback: "",
             url:"https://affable-scissors-7552-psi.vercel.app/",
-            propic:bluemerry
+            propic:bluemerry,
+            
         },
         {
             company: "Amazon Clone",
