@@ -107,7 +107,7 @@ function Header(props) {
                                     >
                                         Projects
                                     </NavBarElement>
-                                    <NavBarElement
+                                    {/* <NavBarElement
                                         onClick={() => {
                                                  SmoothScroll("#accom")
                                                  setNavcolor(4)   
@@ -115,7 +115,7 @@ function Header(props) {
                                         pathCheck={navcolor==4}
                                     >
                                         Accomplishments
-                                    </NavBarElement>
+                                    </NavBarElement> */}
                                     <NavBarElement
                                         onClick={() => {SmoothScroll("#contact")
                                              setNavcolor(5)  

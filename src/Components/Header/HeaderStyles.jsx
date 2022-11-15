@@ -16,7 +16,7 @@ export default makeStyles(({ breakpoints, palette }) => {
             display: "flex",
             alignItems: "center",
             cursor: "pointer",
-            [breakpoints.down("sm")]: {
+            [breakpoints.down("sm", "md")]: {
                 marginRight: "0px",
             },
         },

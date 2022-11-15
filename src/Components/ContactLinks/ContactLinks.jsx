@@ -2,14 +2,10 @@ import React from 'react';
 import EmailIcon from '@mui/icons-material/Email';
 import GitHubIcon from '@mui/icons-material/GitHub';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
-// import TwitterIcon from '@mui/icons-material/Twitter';
 import MediumIcon from '@mui/icons-material/Create';
-// import YouTubeIcon from '@mui/icons-material/YouTube';
-// import InstagramIcon from '@mui/icons-material/Instagram';
 import PhoneInTalkIcon from '@mui/icons-material/PhoneInTalk';
 import styles from "./ContactLinksStyles";
 import { Typography, Button } from "@mui/material";
-// import Resume from "../../Assets/aman_jaiswal_resume.pdf";
 
 const ContactLinks = () => {
     const classes = styles();
@@ -33,16 +29,9 @@ const ContactLinks = () => {
             <a href="https://www.linkedin.com/in/aman-jha-729b521a9/" target='_blank'>
                 <LinkedInIcon fontSize="large" className={classes.linkedin} />
             </a>
-            {/* <a href="https://twitter.com/aman_" target='_blank'>
-                <TwitterIcon fontSize="large" className={classes.twitter} />
-            </a> */}
             <a href="https://medium.com/@jhaaman061" target='_blank'>
                 <MediumIcon fontSize="large" className={classes.medium} />
             </a>
-           
-            {/* <a href="https://www.instagram.com/aman_123/" target='_blank'>
-                <InstagramIcon fontSize="large" className={classes.instagram} />
-            </a> */}
             <Typography variant="h5" className={classes.title} mt={2} mb={2}>
                 Resume
             </Typography>
