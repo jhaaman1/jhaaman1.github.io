@@ -9,7 +9,7 @@ import Education from "./Layouts/Education";
 import customTheme from "./Utils/customTheme";
 import { ThemeProvider } from '@mui/material/styles';
 import WorkExperience from './Layouts/WorkExperience';
-import Accomplishments from './Layouts/Accomplishments';
+// import Accomplishments from './Layouts/Accomplishments';
 import ErrorPage from './Layouts/ErrorPage';
 import ScrollToTop from './Utils/ScrollToTop';
 import GitHub from './Github/Github';
@@ -30,7 +30,7 @@ function App() {
       <WorkExperience />
       <GitHub/>
       <Stats/>
-      <Accomplishments />
+      {/* <Accomplishments /> */}
       <Contact />
 
         <ScrollToTop />
