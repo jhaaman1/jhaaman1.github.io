@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.4850c51a.chunk.css",
-    "main.js": "/static/js/main.d1904d7b.chunk.js",
-    "main.js.map": "/static/js/main.d1904d7b.chunk.js.map",
+    "main.css": "/static/css/main.8e2786b8.chunk.css",
+    "main.js": "/static/js/main.61e5303e.chunk.js",
+    "main.js.map": "/static/js/main.61e5303e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.9440ddd9.js",
     "runtime-main.js.map": "/static/js/runtime-main.9440ddd9.js.map",
-    "static/js/2.8e7a3242.chunk.js": "/static/js/2.8e7a3242.chunk.js",
-    "static/js/2.8e7a3242.chunk.js.map": "/static/js/2.8e7a3242.chunk.js.map",
+    "static/js/2.6c6e0905.chunk.js": "/static/js/2.6c6e0905.chunk.js",
+    "static/js/2.6c6e0905.chunk.js.map": "/static/js/2.6c6e0905.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.4850c51a.chunk.css.map": "/static/css/main.4850c51a.chunk.css.map",
-    "static/js/2.8e7a3242.chunk.js.LICENSE.txt": "/static/js/2.8e7a3242.chunk.js.LICENSE.txt",
+    "static/css/main.8e2786b8.chunk.css.map": "/static/css/main.8e2786b8.chunk.css.map",
+    "static/js/2.6c6e0905.chunk.js.LICENSE.txt": "/static/js/2.6c6e0905.chunk.js.LICENSE.txt",
     "static/media/App.css": "/static/media/AvenirNext-900.d95c5b81.ttf",
     "static/media/Tomtop.32d34d42.png": "/static/media/Tomtop.32d34d42.png",
     "static/media/amazon.e8a02870.png": "/static/media/amazon.e8a02870.png",
@@ -21,8 +21,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.9440ddd9.js",
-    "static/js/2.8e7a3242.chunk.js",
-    "static/css/main.4850c51a.chunk.css",
-    "static/js/main.d1904d7b.chunk.js"
+    "static/js/2.6c6e0905.chunk.js",
+    "static/css/main.8e2786b8.chunk.css",
+    "static/js/main.61e5303e.chunk.js"
   ]
 }
