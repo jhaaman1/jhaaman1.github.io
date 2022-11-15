@@ -1,9 +1,11 @@
 import React from "react";
-import "../App.css";
+import "./Stats.css"
+
+
 const Stats = () => {
   return (
     // streak
-    <div id="stats" >
+    <div className="stats">
       <div className="statsindiv">
         <a href="https://github.com/jhaaman1">
           <img
