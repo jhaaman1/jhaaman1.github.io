@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.1792185b.chunk.css",
-    "main.js": "/static/js/main.cb1608b5.chunk.js",
-    "main.js.map": "/static/js/main.cb1608b5.chunk.js.map",
+    "main.css": "/static/css/main.eadaa872.chunk.css",
+    "main.js": "/static/js/main.4498c0d0.chunk.js",
+    "main.js.map": "/static/js/main.4498c0d0.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.9440ddd9.js",
     "runtime-main.js.map": "/static/js/runtime-main.9440ddd9.js.map",
     "static/js/2.0f9cd7f8.chunk.js": "/static/js/2.0f9cd7f8.chunk.js",
     "static/js/2.0f9cd7f8.chunk.js.map": "/static/js/2.0f9cd7f8.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.1792185b.chunk.css.map": "/static/css/main.1792185b.chunk.css.map",
+    "static/css/main.eadaa872.chunk.css.map": "/static/css/main.eadaa872.chunk.css.map",
     "static/js/2.0f9cd7f8.chunk.js.LICENSE.txt": "/static/js/2.0f9cd7f8.chunk.js.LICENSE.txt",
     "static/media/App.css": "/static/media/AvenirNext-900.d95c5b81.ttf",
+    "static/media/Modesens.74aff968.png": "/static/media/Modesens.74aff968.png",
     "static/media/Tomtop.32d34d42.png": "/static/media/Tomtop.32d34d42.png",
     "static/media/amazon.e8a02870.png": "/static/media/amazon.e8a02870.png",
     "static/media/blumerry.05942bb7.png": "/static/media/blumerry.05942bb7.png",
@@ -22,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.9440ddd9.js",
     "static/js/2.0f9cd7f8.chunk.js",
-    "static/css/main.1792185b.chunk.css",
-    "static/js/main.cb1608b5.chunk.js"
+    "static/css/main.eadaa872.chunk.css",
+    "static/js/main.4498c0d0.chunk.js"
   ]
 }
