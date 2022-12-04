@@ -5,6 +5,7 @@ import tomtop from "./propic/Tomtop.png"
 // import snapdeal from "./propic/snapdeal.png"
 // import cricbuzz from "./propic/cricbuzz.png"
 import bluemerry from "./propic/blumerry.png"
+import modesens from "./propic/Modesens.png"
 
 export default {
     managerialSkills: ["Leadership", "Strategising", "Team Motivation",  "Research", "Finance Management"],
@@ -41,6 +42,17 @@ export default {
     work: [
         
         {
+            company: "Modesens.Com Clone",
+            link: "https://github.com/Chhattoo25/naive-plot-5053",
+            role: "ReactJS,Redux, Redux Thunk, MongoDB, Mongo Atlas, Node JS, Express JS, Vercel, Chakra UI",
+            description: ["Desgined a very popular website know as Modesens.The Look and all the functionality of our website is somewhat similar to the original website.From this website, users can Sign UP, Login, see the number of products and add it to cart and also there is payment where they can payment. This is a team project completed within 5 days.  "],
+            duration: "November 2022- November 2022",
+            feedback: "",
+            url:"https://modesens-nine.vercel.app/",
+            propic:modesens,
+            
+        },
+        {
             company: "Bluemerry.Com Clone",
             link: "https://github.com/Sandipmaury/affable-scissors-7552",
             role: "ReactJS,Redux, Redux Thunk, Vercel, Chakra UI",
@@ -51,16 +63,16 @@ export default {
             propic:bluemerry,
             
         },
-        {
-            company: "Amazon Clone",
-            link: "https://github.com/jhaaman1/clone-amazon-web",
-            role: "ReactJS, Redux ,MaterialUI, Firebase",
-            description: ["Created a very popular website know as Amazon.The Look and all the functionality of our website is very similar to the original website.From this website, users can order any material like book, electronics, fashion etc. across the world. This project completed within 5 days.  "],
-            duration: "August 2022- August 2022",
-            feedback: "",
-            url:"https://clone-ed0c7.web.app/",
-            propic:amazon
-        },
+        // {
+        //     company: "Amazon Clone",
+        //     link: "https://github.com/jhaaman1/clone-amazon-web",
+        //     role: "ReactJS, Redux ,MaterialUI, Firebase",
+        //     description: ["Created a very popular website know as Amazon.The Look and all the functionality of our website is very similar to the original website.From this website, users can order any material like book, electronics, fashion etc. across the world. This project completed within 5 days.  "],
+        //     duration: "August 2022- August 2022",
+        //     feedback: "",
+        //     url:"https://clone-ed0c7.web.app/",
+        //     propic:amazon
+        // },
         // {
         //     company: "Cricbuzz Clone",
         //     link: "https://github.com/jhaaman1/usable-distribution-7962",
